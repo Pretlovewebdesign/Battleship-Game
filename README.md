@@ -1,2 +1,2 @@
-<a href="https://pretlovewebdesign.github.io/Battleship-Game/"><h1>Website</h1></a>
+<a href="https://pretlovewebdesign.github.io/Battleship-Game/">Weclome Page</a>
 <img src="board.jpg">
