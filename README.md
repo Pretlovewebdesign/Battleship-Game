@@ -1,1 +1,1 @@
-<a href="https://pretlovewebdesign.github.io/Battleship-Game/">Website</a>
+<a href="https://pretlovewebdesign.github.io/Battleship-Game/"><h1>Website</h1></a>
